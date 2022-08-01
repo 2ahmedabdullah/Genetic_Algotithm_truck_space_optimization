@@ -11,5 +11,5 @@ The objective is to maximize profit.
 I have used Genetic Algorithm to solve this problem
 
 <p align="center">
-   <img src="GA_results.jpg">
+   <img src="GA_results.JPG">
 </p>
